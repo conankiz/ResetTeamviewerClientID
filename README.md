@@ -6,7 +6,7 @@
 [II. Getting Start](#batdau)
 - [1. Step 1: Download script](#step1)
 - [2. Step 2: Run commnad ](#step2)
-- [3. Step 3: Run commnad ](#step3)
+- [3. Step 3: reboot ](#step3)
 
 [III. Summary](#Tongket)
 
