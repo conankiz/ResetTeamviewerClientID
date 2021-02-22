@@ -5,12 +5,8 @@
 
 [II. Getting Start](#batdau)
 - [1. Step 1: Download script](#step1)
-- [2. Step 2](#step2)
-- [3. Step 3](#step3)
-- [4. Step 4](#step4)
-- [5. Step 5](#step5)
-- [6. Step 6](#step6)
-- [7. Step 7](#step7)
+- [2. Step 2: Run commnad ](#step2)
+- [3. Step 3: Run commnad ](#step3)
 
 [III. Summary](#Tongket)
 
@@ -26,7 +22,11 @@
 ## Step 1: Download python script file
 
 <a name="step2"></a>
-## Step 2: 
+## Step 2: Run the following commands
+sudo python ./TeamViewer-id-changer.py
+
+<a name="step3"></a>
+## Step 3: Reboot Your computer
 
 <a name="tongket"></a>
 ## III. Summary:
