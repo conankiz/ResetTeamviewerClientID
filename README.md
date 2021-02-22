@@ -22,9 +22,10 @@
 ## Step 1: Download python script file
 
 <a name="step2"></a>
-## Step 2: Run the following commands
+## Step 2: Run the following command
+``` sh
 sudo python ./TeamViewer-id-changer.py
-
+```
 <a name="step3"></a>
 ## Step 3: Reboot Your computer
 
