@@ -34,12 +34,12 @@ sudo python ./TeamViewer-id-changer.py
 
 Watch Video here: 
 
-- [How to Install and configure Samba on Ubuntu 20.04 Part 1:  Public folder](https://youtu.be/2o5zgA8ml38)
-- [How to configure and Install Samba on Ubuntu 20.04 Part2: Private Share](https://youtu.be/6s9ZEp3xS94)
+- [How to install Active Directory on Ubuntu 20 04 LTS](https://youtu.be/IgZM4urpjMM)
+- [How to install freerdp on ubuntu 20.04](https://youtu.be/Tpw75B5fOIY)
 
 **Contact me:**
 - Email: manhhungbl@gmail.com
 - Skype: spyerx3
-- Youtube Channel: youtube.com/howtoused
+- Youtube Channel: https://www.youtube.com/channel/UCGcBvhZf_5ZPK9B42fi_ZNw
 
 Thank you very much!
